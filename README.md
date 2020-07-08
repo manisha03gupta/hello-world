@@ -1,3 +1,3 @@
-# hello-world
+# git series
 just another repository
 hello, myself manisha
